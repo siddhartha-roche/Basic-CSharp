@@ -73,8 +73,6 @@ public class CountUp : MonoBehaviour
              
              */
 
-            //MonoBehaviour Lifecycle basics- Awake, OnEnable, Start, Update, FixedUpdate(Physics operations related)
-
         }
     }
 }
